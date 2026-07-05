@@ -7,3 +7,4 @@
 `define JAL     7'b1101111
 `define LUI     7'b0110111
 `define AUIPC   7'b0010111
+`define B_type 7'b1100011

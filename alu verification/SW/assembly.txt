@@ -1,0 +1,5 @@
+addi x1,x0,42      // Data to store
+addi x2,x0,3       // Address = 3 words (byte address = 12)
+sw   x1,0(x2)
+nop
+nop
